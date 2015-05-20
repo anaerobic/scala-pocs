@@ -1,5 +1,5 @@
 # scala-pocs
-A collection of POC's written in Scala &amp; running in Docker for Kafka, Hadoop, etc.
+A collection of POC's written in Scala &amp; running in Docker for Kafka, Hadoop and PostgreSQL
 
 ## Setting up Kafka
 
