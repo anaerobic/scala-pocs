@@ -1,0 +1,1 @@
+docker run -it --rm --net host -v ~/kafka/share:/share --entrypoint=/bin/bash williamyeh/scala

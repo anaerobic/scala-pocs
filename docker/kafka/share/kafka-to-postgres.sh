@@ -1,0 +1,1 @@
+scala /share/kafka-to-postgres-1.0.jar results zookeeper.lacolhost.com:2181 group4 true postgres.lacolhost.com/postgres postgres LifeTime1
